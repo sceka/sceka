@@ -22,4 +22,4 @@
 
 [instagram]: https://instagram.com/scekaaaaa
 [linkedin]: https://www.linkedin.com/in/marko-scekic-187213213/
-[gmail]: scekicm02@gmail.com
+[gmail]: mailto:scekicm02@gmail.com
