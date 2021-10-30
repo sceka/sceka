@@ -1,6 +1,6 @@
-### Hi there, I'm Marko 👋
+## Hi there, I'm Marko 👋
 
-## I'm just a passionate Developer!!
+### I'm just a passionate Developer!!
 
 -   🔭 Currently improving my skills as a Full-Stack Developer.
 -   🎭 I am also learning Blockchain developing and Cybersecurity.
