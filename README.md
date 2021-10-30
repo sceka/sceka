@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Marko Scekic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="scekaaaaa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] [<img align="left" alt="Gmail" width="22px" src="http://cdn.onlinewebfonts.com/svg/img_237869.png"/>][gmail]
 
 <br />
 
@@ -22,3 +22,4 @@
 
 [instagram]: https://instagram.com/scekaaaaa
 [linkedin]: https://www.linkedin.com/in/marko-scekic-187213213/
+[gmail]: scekicm02@gmail.com
