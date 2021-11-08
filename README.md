@@ -1,6 +1,6 @@
 ## Hi there, I'm Marko 👋
 
-<p><img align="right" src="https://github.com/sceka/sceka/blob/master/programmer.gif" width="300" height="200"/></p>
+<p><img align="right" src="https://github.com/sceka/sceka/blob/master/programmer.gif" width="370" height="250"/></p>
 
 ### I'm just a passionate Developer!!
 
