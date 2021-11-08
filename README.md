@@ -24,3 +24,4 @@
 
 [instagram]: https://instagram.com/scekaaaaa
 [linkedin]: https://www.linkedin.com/in/marko-scekic-187213213/
+[email]: https://myaccount.google.com/?utm_source=OGB&tab=mk&utm_medium=act&gar=1
