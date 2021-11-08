@@ -20,7 +20,7 @@
 <br />
 <br />
 
-<p><img align="right" src="https://github.com/sceka/sceka/blob/master/programmer.gif" width="500" height="320"/></p>
+<p><img align="right" src="https://github.com/sceka/sceka/blob/master/programmer.gif" width="420" height="260"/></p>
 
 ### P.S. I had a problem with my emails for github because I changed once and all commits are on the other email that isn't on this profile and they are lost.
 
