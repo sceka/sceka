@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Marko Scekic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="scekaaaaa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Marko Scekic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="scekaaaaa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] [<img align="left" alt="scekaaaaa | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/2768/PNG/512/email_icon_176616.png" />][instagram]
 
 <br />
 
@@ -20,7 +20,7 @@
 <br />
 <br />
 
-### P.S. I had a problem with my emails for github because I changed once and all commits are on the other email that isn't on this profile.
+### P.S. I had a problem with my emails for github because I changed once and all commits are on the other email that isn't on this profile and they are lost.
 
 [instagram]: https://instagram.com/scekaaaaa
 [linkedin]: https://www.linkedin.com/in/marko-scekic-187213213/
