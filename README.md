@@ -1,5 +1,7 @@
 ## Hi there, I'm Marko 👋
 
+<p><img align="right" src="https://github.com/sceka/sceka/blob/master/programmer.gif" width="300" height="200"/></p>
+
 ### I'm just a passionate Developer!!
 
 -   🔭 Currently improving my skills as a Full-Stack Developer.
@@ -7,7 +9,6 @@
 -   ⚡ 2021 Goals: I want to be on some big project.
 -   🏀 Fun fact: I love to play basketball.
 
-<p><img align="right" src="https://github.com/sceka/sceka/blob/master/programmer.gif" width="300" height="200"/></p>
 ### Connect with me:
 
 [<img align="left" alt="Marko Scekic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] [<img align="left" alt="scekaaaaa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] [<img align="left" alt="scekaaaaa | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/2768/PNG/512/email_icon_176616.png" />][email]
