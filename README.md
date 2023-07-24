@@ -24,6 +24,5 @@
 
 ### P.S. I had a problem with my emails for github because I changed once and all commits are on the other email that isn't on this profile and they are lost.
 
-[instagram]: https://instagram.com/scekaaaaa
-[linkedin]: https://www.linkedin.com/in/marko-scekic-187213213/
+[linkedin]: https://www.linkedin.com/in/scekicmarko/
 [email]: https://myaccount.google.com/?utm_source=OGB&tab=mk&utm_medium=act&gar=1
